@@ -7,15 +7,18 @@ object-oriented programming and practical problem solving.
 
 🧠 Tech Stack
 
-Programming
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+Languages
+- ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
+- ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat&logo=dotnet&logoColor=white)
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/-HTML5-white?logo=html5)
+- ![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css&logoColor=white)
+- ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square#:~:text=JavaScript)
 
 Frameworks
-- ASP.NET
-- WPF
-- Windows Forms
+- ![ASP.NET](https://img.shields.io/badge/ASP.NET-%23512BD4?style=flat&logo=dotnet&logoColor=white)
+- ![WPF](https://img.shields.io/badge/WPF-%23512BD4?style=flat&logo=dotnet&logoColor=white)
+- ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-%230078D6?style=flat&logo=dotnet&logoColor=white)
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
 
