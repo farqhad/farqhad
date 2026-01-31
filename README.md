@@ -8,27 +8,23 @@ object-oriented programming and practical problem solving.
 🧠 Tech Stack
 
 Programming
-- Python
-- C#
-- C++
-
-Core Concepts
-- Object-Oriented Programming (OOP)
-- Algorithms & Programming Logic
-- Basic Design Patterns
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
 
 Frameworks
 - ASP.NET
 - WPF
-- React
+- Windows Forms
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
 
 Databases
-- SQL
+- ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 Tools
-- Git
-- Neovim
-- Visual Studio / VS Code
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ---
 
