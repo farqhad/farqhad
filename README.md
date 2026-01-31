@@ -13,7 +13,7 @@ Languages
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/-HTML5-white?logo=html5)
 - ![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css&logoColor=white)
-- ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square#:~:text=JavaScript)
+- ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat)
 
 Frameworks
 - ![ASP.NET](https://img.shields.io/badge/ASP.NET-%23512BD4?style=flat&logo=dotnet&logoColor=white)
