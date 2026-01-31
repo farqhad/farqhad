@@ -27,6 +27,7 @@ Databases
 
 Tools
 - Git
+- Neovim
 - Visual Studio / VS Code
 
 ---
