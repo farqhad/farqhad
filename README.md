@@ -1,16 +1,45 @@
-## Hi there 👋
+👨‍💻 Aspiring Software Developer | Application Development
 
-<!--
-**farqhad/farqhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building clean and structured applications with a focus on
+object-oriented programming and practical problem solving.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Tech Stack
+
+Programming
+- Python
+- C#
+- C++
+
+Core Concepts
+- Object-Oriented Programming (OOP)
+- Algorithms & Programming Logic
+- Basic Design Patterns
+
+Frameworks
+- ASP.NET
+- WPF
+- React
+
+Databases
+- SQL
+
+Tools
+- Git
+- Visual Studio / VS Code
+
+---
+
+🚀 Current Focus
+
+- Applying OOP and design patterns in small practical projects
+- Improving code structure, readability, and maintainability
+- Strengthening backend logic and database fundamentals
+
+---
+
+🎯 Goal
+
+Growing as a developer through a dual vocational training (Ausbildung)
+in application development within a professional software environment.
