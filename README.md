@@ -1,7 +1,7 @@
 👨‍💻 Aspiring Software Developer | Application Development
 
 Building clean and structured applications with a focus on
-object-oriented programming and practical problem solving.
+object-oriented programming. 
 
 ---
 
@@ -32,14 +32,4 @@ Tools
 ---
 
 🚀 Current Focus
-
-- Applying OOP and design patterns in small practical projects
-- Improving code structure, readability, and maintainability
-- Strengthening backend logic and database fundamentals
-
----
-
-🎯 Goal
-
-Growing as a developer through a dual vocational training (Ausbildung)
-in application development within a professional software environment.
+- Collaborating with an independent team of developers to build a large-scale messenger application as a core C# .NET Developer.
