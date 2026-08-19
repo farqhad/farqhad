@@ -33,6 +33,8 @@ I built the backend business logic for web API microservices behind a messenger 
 
 ![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=flat)
 
+---
+
 
 #### 💻 Languages
 
@@ -43,6 +45,8 @@ I built the backend business logic for web API microservices behind a messenger 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+
+---
 
 
 #### 🧰 Environment
