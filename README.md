@@ -16,6 +16,7 @@ I built the backend business logic for web API microservices behind a messenger 
 
 ---
 
+
 #### 🔓 Offensive Security
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
@@ -31,6 +32,7 @@ I built the backend business logic for web API microservices behind a messenger 
 ![ffuf](https://img.shields.io/badge/ffuf-000000?style=flat)
 
 ![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=flat)
+
 
 #### 💻 Languages
 
