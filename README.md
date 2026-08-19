@@ -29,7 +29,7 @@ I built the backend business logic for web API microservices behind a messenger 
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
-![FFUF](https://img.shields.io/badge/ffuf-000000?style=flat&logo=gnubash&logoColor=white)
+![FFUF](https://img.shields.io/badge/FFUF-000000?style=flat&logo=gnubash&logoColor=white)
 
 ![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=flat&logo=gnubash&logoColor=white)
 
