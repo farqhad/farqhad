@@ -57,4 +57,4 @@ I built the backend business logic for web API microservices behind a messenger 
 
 ---
 
-📓 Everything I learn goes into my **[Penetration Testing Vault](https://github.com/farqhad/Penetration-Testing-Vault)** — methodologies, per-service checklists, and full write-ups for every machine I break into.
+📓 Everything I learn goes into my **[Penetration Testing Vault](https://github.com/farqhad/penetration-testing-vault)** — methodologies, per-service checklists, and full write-ups for every machine I break into.
