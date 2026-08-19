@@ -21,7 +21,7 @@ I built the backend business logic for web API microservices behind a messenger 
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=gnubash&logoColor=white)
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
 
@@ -29,9 +29,9 @@ I built the backend business logic for web API microservices behind a messenger 
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
-![ffuf](https://img.shields.io/badge/ffuf-000000?style=flat)
+![FFUF](https://img.shields.io/badge/ffuf-000000?style=flat&logo=gnubash&logoColor=white)
 
-![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=flat)
+![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=flat&logo=gnubash&logoColor=white)
 
 ---
 
