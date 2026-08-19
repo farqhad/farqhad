@@ -1,4 +1,4 @@
-### 🛡️ Software developer moving into offensive security
+### 🛡️ Software Developer moving into Offensive Security
 
 #### 👋 About
 
