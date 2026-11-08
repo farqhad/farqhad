@@ -2,7 +2,7 @@
 
 #### 👋 About
 
-I built the backend business logic for web API microservices behind a messenger platform (C# · ASP.NET · Dapper · PostgreSQL), and I've since taken on the offensive-security role on that same team — now going deep on penetration testing, rooting lab machines and documenting everything as I go.
+Former backend dev now focused on offensive security — rooting lab machines and documenting the journey.
 
 #### 🎯 Certification Roadmap
 
